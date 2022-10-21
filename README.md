@@ -4,6 +4,8 @@
 - 💞️ Eu não tenho nenhuma preferencia de projeto ate o momento
 - 📫 Meu Linkedin esta disponivel no meu Perfil
 
+Estou usando o Github para guardar projetos de Curso ou Aula da faculdade, além de projetos pessoais para mostrar
+
 <!---
 RafaelAguiarRodrigues/RafaelAguiarRodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
