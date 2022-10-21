@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Rafael Aguiar Rodrigues(@RafaelAguiarRodrigues)
 - 👀 Eu estou interessado em Desenvolver Projetos (de preferencia Front-end)
-- 🌱 Eu atualmente estudo na faculdade Projeção de Taguatinga cursando ADS e tambem faço inumeros cursos na Alura como HTML, CSS, JavaScript, Bootstrap, SEO, Java, C, MySQL, Github e futuramente +
+- 🌱 Eu atualmente estudo na faculdade Projeção de Taguatinga cursando ADS e tambem faço inumeros cursos na Alura como HTML, CSS, JavaScript, Bootstrap, SEO, Java, C, MySQL, Github, Portugol e futuramente +
 - 💞️ Eu não tenho nenhuma preferencia de projeto ate o momento
 - 📫 Meu Linkedin esta disponivel no meu Perfil
 
