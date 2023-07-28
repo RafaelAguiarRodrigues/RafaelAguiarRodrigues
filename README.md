@@ -1,8 +1,8 @@
 ## 👋 Olá, meu nome é Rafael Aguiar Rodrigues(@RafaelAguiarRodrigues).
-- 👀 Eu estou interessado em Desenvolver Projetos (de preferencia Front-end).
-- 🌱 Eu atualmente estudo na faculdade Projeção de Taguatinga cursando ADS e tambem faço inúmeros cursos na Alura como HTML, CSS, JavaScript, Typescript, Angular Bootstrap, SEO, Java, C, MySQL, Github, Portugol, TypeScript, Sass e futuramente +.
-- 💞️ Eu não tenho nenhuma preferência de projeto ate o momento.
-- 📫 Meu Linkedin esta disponivel no meu Perfil.
+- Eu estou interessado em Desenvolver Projetos (de preferencia Front-end).
+- Eu atualmente estudo na faculdade Projeção de Taguatinga cursando ADS e tambem faço inúmeros cursos na Alura como HTML, CSS, JavaScript, Typescript, Angular Bootstrap, SEO, Java, C, MySQL, Github, Portugol, TypeScript, Sass e futuramente +.
+- Eu não tenho nenhuma preferência de projeto ate o momento.
+- Meu Linkedin e outras redes sociais estão disponíveis no meu Perfil.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
