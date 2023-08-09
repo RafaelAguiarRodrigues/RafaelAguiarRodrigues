@@ -32,7 +32,3 @@
   <a href="https://www.instagram.com/rafaaguiar.zen/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></img></a>
   <a href="mailto:rafaelrodriguesaguiar18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></img></a>
 </div>
-
-##
-
-![Snake animation](https://github.com/RafaelAguiarRodrigues/RafaelAguiarRodrigues/blob/output/github-contribution-grid-snake.svg)
