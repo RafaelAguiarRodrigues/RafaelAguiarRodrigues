@@ -1,4 +1,9 @@
 ## 👋 Olá, meu nome é Rafael Aguiar Rodrigues(@RafaelAguiarRodrigues).
+<div align="center">
+  <img src="https://i.pinimg.com/originals/87/b3/74/87b374a764bfa8f4ad403569455a9554.gif" align="center" style="width: 100%" />
+</div>
+<br>
+
 - Eu estou interessado em na área de Desenvolver e Analisar Projetos (de preferencia no Front-end), minhas maiores especialidade no momento é Angular e Java Spring.
 - Eu atualmente estudo na faculdade Projeção de Taguatinga cursando ADS e tambem faço inúmeros cursos na Alura como de HTML, CSS, JavaScript, Typescript, Angular Bootstrap, SEO, Java, C, MySQL, Github, Portugol, TypeScript, Sass e futuramente +.
 - Eu não tenho nenhuma preferência de projeto ate o momento.
@@ -34,6 +39,4 @@
 
 ##
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/87/b3/74/87b374a764bfa8f4ad403569455a9554.gif" align="center" style="width: 100%" />
-</div>  
+
