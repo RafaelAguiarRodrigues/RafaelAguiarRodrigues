@@ -17,17 +17,16 @@
 
 <br>Estou usando o Github para guardar projetos de Curso ou Aula da faculdade, além de projetos pessoais para mostrar.
 
-##
 
-<div>
+<div align="center">
   <a href="https://github.com/RafaelAguiarRodrigues">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAguiarRodrigues&layout=compact&langs_count=7&theme=tokyonight"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelAguiarRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
     
-##
+### <h2 align="center">Mídias</h2>
     
-<div>
+<div align="center">
   <a href="https://i.pinimg.com/originals/c0/15/4e/c0154e44d3d755fdfe28264bcf32099a.jpg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></img></a>
   <a href="https://www.instagram.com/rafaaguiar.zen/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></img></a>
   <a href="mailto:rafaelrodriguesaguiar18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></img></a>
@@ -36,5 +35,5 @@
 ##
 
 <div align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=951596596249459120" align="center" style="width: 100%" />
+  <img src="https://i.pinimg.com/originals/87/b3/74/87b374a764bfa8f4ad403569455a9554.gif" align="center" style="width: 100%" />
 </div>  
