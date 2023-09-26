@@ -6,7 +6,7 @@
 
 - Eu estou interessado em na área de Desenvolver e Analisar Projetos (de preferencia no Front-end), minhas maiores especialidade no momento é Angular e Java Spring.
 - Eu atualmente estudo na faculdade Projeção de Taguatinga cursando ADS e tambem faço inúmeros cursos na Alura como de HTML, CSS, JavaScript, Typescript, Angular Bootstrap, SEO, Java, C, MySQL, Github, Portugol, TypeScript, Sass e futuramente +.
-- Eu não tenho nenhuma preferência de projeto ate o momento.
+- Eu estou no momento trabalhando como voluntario bolsista na fábrica de software na qual passei em 1º lugar na prova de seleção.
 - Meu Linkedin e outras redes sociais estão disponíveis no meu Perfil.
 
 <div style="display: inline_block"><br>
