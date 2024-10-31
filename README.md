@@ -4,9 +4,9 @@
 </div>
 <br>
 
-- Eu estou interessado em na área de Desenvolver e Analisar Projetos (de preferencia no Front-end), minhas maiores especialidade no momento são Angular e Java Spring.
-- Graduado na faculdade Projeção de Taguatinga em TADS (ou ADS) e também faço inúmeros cursos na Alura como de HTML, CSS, JavaScript, Typescript, Angular Bootstrap, SEO, Java, C, MySQL, Github, SpringBoot, TypeScript, Sass e futuramente +.
-- Eu estou no momento trabalhando como desenvolvedor Júnior na Kinix Service. E também como voluntario bolsista na fábrica de software da faculdade na qual passei em 1º lugar na prova de seleção na segunda edição de 2023.
+- Eu estou interessado em na área de Desenvolver e Analisar Projetos (de preferencia como Full-stack), minhas maiores especialidades no momento são Angular e Java Spring.
+- Graduado na faculdade Projeção de Taguatinga em TADS (ou ADS) e também faço inúmeros cursos na Alura como de HTML, CSS, JavaScript, Typescript, Angular Bootstrap, SEO, Java, C, MySQL, Github, SpringBoot, TypeScript, Sass e muito mais.
+- Eu estou no momento trabalhando como Dev na Kinix Service. E também como voluntario na fábrica de software da faculdade na qual passei em 1º lugar na prova de seleção na segunda edição de 2023 e hoje sou ex-aluno.
 - Meu Linkedin e outras redes sociais estão disponíveis aqui no meu read.me.
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
-<br>Estou usando o Github para guardar projetos de Curso ou Aula da faculdade, além de projetos pessoais para mostrar.
+<br>Estou usando o Github para guardar projetos de cursos, aulas, projetos pessoais (para praticar) e também para trabalho.
 
 
 <div align="center">
