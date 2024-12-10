@@ -6,7 +6,9 @@
 
 - Eu estou interessado em na área de Desenvolver e Analisar Projetos (de preferencia como Full-stack), minhas maiores especialidades no momento são Angular e Java Spring.
 - Graduado na faculdade Projeção de Taguatinga em TADS (ou ADS) e também faço inúmeros cursos na Alura como de HTML, CSS, JavaScript, Typescript, Angular Bootstrap, SEO, Java, C, MySQL, Github, SpringBoot, TypeScript, Sass e muito mais.
-- Eu estou no momento trabalhando como Dev na Kinix Service. E também como voluntario na fábrica de software da faculdade na qual passei em 1º lugar na prova de seleção na segunda edição de 2023 e hoje sou ex-aluno.
+- Trabalhei como Dev na Kinix Service durante 4 meses auxiliando meu chefe em suas 3 empresas.
+- Trabalho como Analista Desenvolvedor Júnior na Caixa pela Amazon Informática.
+- E também trabalho como voluntario na fábrica de software da faculdade (sou ex-aluno atualmente) na qual passei em 1º lugar na prova de seleção na segunda edição de 2023.
 - Meu Linkedin e outras redes sociais estão disponíveis aqui no meu read.me.
 
 <div style="display: inline_block"><br>
